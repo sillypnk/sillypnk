@@ -1,19 +1,23 @@
 <div align="center">
-
-<img src="https://media1.tenor.com/m/8TwexvTYzy4AAAAC/adachi-rei-utau.gif" width="90" />
-
-<h3 style="display: inline-block">🧡</h3>
-
-
-## Hello there! I am PumoReichii and welcome :]
-
+  <img src="https://media1.tenor.com/m/8TwexvTYzy4AAAAC/adachi-rei-utau.gif" width="90" />
+  <h2>I am PumoReiichi!</h2>
+  I just like creating websites but my crappy laptop won't let me do :)
 </div>
 
-🤗 - I am still a student in High School
-<br />
-📱 - I love reading mangas! Especially if they're *Romance*
-<br />
-😴 - I am planning to learn backend soon 
+  🏫 - Currently in SHS
+  <br />
+  📱 - Addicted to reading fictional romance
+  <br />
+  🤔 - Frontend Newbie
+  <br />
+
+
+
+
+
+
+
+
 
 
 
